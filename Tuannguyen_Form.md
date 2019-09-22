@@ -2,11 +2,12 @@
 Tuan Nguyen
 
 Data Collection Software: Form.com
-Website: https://www.form.com/platform/features/mobile-forms/
 Applications: Android, IOS, Web-Based, Window
 Contact Email: info@worldapp.com
 
- Form.com is a data collection software to create custom web and mobile. The goal of streamlining data collection and digitizing form-based processes. Easily collect data directly from your smart device with or without an internet connection. It integrates deeply customizable data collection tools and business intelligence dashboards. With IT infrastructure to continuously improve the operations. With Form, the user can customize the application to specific use case, process, and desired outcome. Design forms to automate virtually any manual process in an optimized digital environment. Data collection can take pictures, attach files, add notes, make comments, and markup images to highlight specific areas of interest.
+Project Abstract
+
+Form.com is a data collection software to create custom web and mobile. The goal of streamlining data collection and digitizing form-based processes. Easily collect data directly from your smart device with or without an internet connection. It integrates deeply customizable data collection tools and business intelligence dashboards. With IT infrastructure to continuously improve the operations. With Form, the user can customize the application to specific use case, process, and desired outcome. Design forms to automate virtually any manual process in an optimized digital environment. Data collection can take pictures, attach files, add notes, make comments, and markup images to highlight specific areas of interest.
  
 Project Relevance
 
