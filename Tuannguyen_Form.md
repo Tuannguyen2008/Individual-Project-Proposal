@@ -21,6 +21,6 @@ Background
 URL:https://www.form.com/?utm_campaign=us-fdc-brand&utm_term=form%20.com&utm_content=375743180333&gclid=EAIaIQobChMIhbLW8Jfl5AIVCY3ICh3D7QkEEAAYASAAEgJ2IPD_BwE
 
 Required Resources
--Group members: Tuan Nguyen
--Software: NetBeans, Html, Mobile App Design 
+Group members: Tuan Nguyen
+Software: NetBeans, Html, Mobile App Design 
 
