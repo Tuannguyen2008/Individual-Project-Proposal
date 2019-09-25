@@ -25,5 +25,8 @@ Required Resources
 
 -Group members: Tuan Nguyen
 
--Software: NetBeans, Html, Mobile App Design 
+-Software: NetBeans, Mobile App Design(Biznessapps) 
+
+-Programming Languages: Java 
+
 
